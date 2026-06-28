@@ -1,42 +1,31 @@
 <div align="center">
 
+<!-- ==================== HERO BANNER ==================== -->
+
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
+
 # 👋 Hi, I'm Dhruv Mohapatra
 
-### IoT & Embedded Systems Engineer
+### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-### Raspberry Pi • ESP32 • Computer Vision • Cloud
-
-### **"I build things."**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Systems;IoT+%7C+Embedded+Systems+%7C+Cloud;Samsung+PRISM+Research+Intern;Building+Technology+That+Matters"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=I+build+things.;Hardware+%2B+Software+%2B+Cloud.;Engineering+Intelligent+Systems."/>
 
 </div>
 
 ---
 
-# About
+# 🚀 About Me
 
-I'm a Computer Science (IoT) undergraduate who enjoys designing intelligent systems where hardware and software work together.
-
-I like building practical engineering solutions using embedded systems, robotics, IoT and computer vision. My focus is on understanding how systems work, solving real problems and continuously improving every project I build.
-
-Currently:
-
-* 🔬 Samsung PRISM Research Intern
-* ☁️ Broadridge Training Program
-* 📚 Agile Development
-* 🌐 Cloud Technologies
+Most software ends where the screen begins. I enjoy building what exists beyond it, connecting embedded devices, hardware, cloud technologies and software into intelligent systems that interact with the real world. My focus is simple: build practical technology that solves meaningful problems.
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=22C55E)
-
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=22C55E)
-
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=22C55E)
 
 ---
@@ -44,40 +33,27 @@ Currently:
 ### Embedded & IoT
 
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge\&logo=raspberrypi\&logoColor=22C55E)
-
 ![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge)
-
 ![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino\&logoColor=22C55E)
-
-![GPIO](https://img.shields.io/badge/GPIO-111111?style=for-the-badge)
 
 ---
 
-### Frameworks
+### Software
 
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=22C55E)
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=22C55E)
-
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=22C55E)
-
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=22C55E)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=22C55E)
 
 ---
 
 ### Developer Tools
 
-`VS Code`
-
-`Eclipse IDE`
-
-`Thonny`
-
-`RealVNC Viewer`
+`VS Code` • `Thonny` • `Eclipse IDE` • `RealVNC Viewer`
 
 ---
 
-# Featured Projects
+# 📌 Featured Projects
 
 🏠 Smart Home Automation using WhatsApp & Twilio
 
@@ -91,25 +67,7 @@ Currently:
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruvmohapatra&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvmohapatra&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dhruvmohapatra&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Connect
+# 📫 Connect
 
 📧 **[dhruvmohapatra57@gmail.com](mailto:dhruvmohapatra57@gmail.com)**
 
@@ -117,7 +75,7 @@ Currently:
 
 </br>
 
-> *Engineering intelligent systems where hardware meets software.*
+> **"I build things."**
 
 </br>
 
