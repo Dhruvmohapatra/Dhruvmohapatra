@@ -1,34 +1,39 @@
-````markdown
+```markdown
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
 
 # Dhruv Mohapatra
 
 ### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-### *"I build things."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+things.;Engineering+Intelligent+Systems.;Hardware+%7C+Software+%7C+Cloud."/>
+
+*"Building systems beyond the screen."*
 
 </div>
 
-<br>
+---
 
 # About
 
 Most software ends where the screen begins.
 
-I enjoy building the part that interacts with the real world, connecting embedded systems, hardware, cloud technologies and software into intelligent systems that solve practical problems.
+I enjoy building the systems that exist beyond it, integrating embedded hardware, cloud technologies and software into intelligent solutions that interact with the real world.
 
-<br>
+---
 
 # Current Focus
 
-- 🔬 Samsung PRISM Research Intern
-- ☁️ Cloud Technologies
-- 📋 Agile Development
-- ⚙️ Embedded Systems & IoT
+**Samsung PRISM Research Intern**
 
-<br>
+**Cloud Technologies**
+
+**Agile Development**
+
+**Embedded Systems & IoT**
+
+---
 
 # Tech Stack
 
@@ -48,59 +53,33 @@ I enjoy building the part that interacts with the real world, connecting embedde
 
 `VS Code` • `Eclipse IDE` • `Thonny` • `RealVNC Viewer`
 
-<br>
+---
 
 # Featured Projects
 
-### 🏠 Smart Home Automation using WhatsApp & Twilio
+🏠 Smart Home Automation using WhatsApp & Twilio
 
-Remote control of home appliances using Raspberry Pi, Flask and Twilio WhatsApp API.
+🤖 Human Following Robot
 
----
+🦾 Haptic Feedback Robotic Arm
 
-### 🤖 Human Following Robot
+🏥 MediQ Smart Healthcare System
 
-Autonomous robot using computer vision and embedded control.
-
----
-
-### 🦾 Haptic Feedback Robotic Arm
-
-Gesture-based robotic arm with haptic feedback.
+🚗 Smart Parking System
 
 ---
-
-### 🏥 MediQ Smart Healthcare System
-
-IoT-powered healthcare monitoring and automation.
-
----
-
-### 🚗 Smart Parking System
-
-Smart parking detection using IoT technologies.
-
-<br>
 
 # Connect
 
-📧 **Email**
+📧 **dhruvmohapatra57@gmail.com**
 
-```text
-dhruvmohapatra57@gmail.com
-```
-
-💻 **GitHub**
-
-```text
-github.com/Dhruvmohapatra
-```
+💻 **github.com/Dhruvmohapatra**
 
 ---
 
 <div align="center">
 
-### Building intelligent systems where hardware meets software.
+### "I build things."
 
 </div>
-````
+```
