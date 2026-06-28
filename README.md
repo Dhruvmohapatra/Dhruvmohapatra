@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋 I'm Dhruv Mohapatra</h1>
 
 <h3 align="center">
-IoT & Embedded Systems Engineer | Raspberry Pi | ESP32 | Computer Vision
+IoT & Embedded Systems Engineer | Raspberry Pi | ESP32 | Cloud
 </h3>
 
 <h3 align="center">
-<i>"I build things ."</i>
+<i>"I build things"</i>
 </h3>
 
 ---
