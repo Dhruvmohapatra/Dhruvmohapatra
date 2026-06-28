@@ -2,7 +2,7 @@
 
 <!-- ==================== HERO BANNER ==================== -->
 
-<img src="https://tse1.mm.bing.net/th/id/OIP.0yS-cPiOBKki-efbSGmp7gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="100%" alt="Dhruv Mohapatra Banner"/>
+<img src="[https://tse1.mm.bing.net/th/id/OIP.0yS-cPiOBKki-efbSGmp7gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://static.vecteezy.com/system/resources/thumbnails/044/539/717/small_2x/motherboard-with-protection-chips-photo.jpeg)" width="100%" alt="Dhruv Mohapatra Banner"/>
 
 # 👋 Hi, I'm Dhruv Mohapatra
 
