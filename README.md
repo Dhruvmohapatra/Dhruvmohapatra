@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Dhruv Mohapatra
 
-### Embedded Systems • Internet of Things • Cloud Technologies • Computer Vision
+### Every System Has Flaws. I Build Solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;ESP32+%7C+Raspberry+Pi+Developer;IoT+%2B+Cloud+%2B+AI;Turning+Ideas+Into+Working+Prototypes"/>
 
