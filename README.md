@@ -38,7 +38,7 @@ Most software ends where the screen begins. I enjoy building what exists beyond 
 
 ---
 
-### Cloud & Software
+### Software
 
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=22C55E)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=22C55E)
