@@ -1,86 +1,82 @@
-```markdown
 <div align="center">
+
+<!-- ==================== HERO BANNER ==================== -->
 
 <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
 
-<br>
-
-# DHRUV MOHAPATRA
+# 👋 Hi, I'm Dhruv Mohapatra
 
 ### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+things.;I+build+systems.;I+build+what+matters."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=I+build+things.;Hardware+%2B+Software+%2B+Cloud.;Engineering+Intelligent+Systems."/>
 
 </div>
 
 ---
 
-## About
+# 🚀 About Me
 
-> **Most software ends where the screen begins.**
-
-I prefer building what exists beyond it.
-
-From embedded devices collecting data to cloud services connecting everything together, I enjoy engineering complete systems where hardware, software and cloud work as one.
-
-Currently a **Samsung PRISM Research Intern**, exploring intelligent systems through practical engineering.
+Most software ends where the screen begins. I enjoy building what exists beyond it, connecting embedded devices, hardware, cloud technologies and software into intelligent systems that interact with the real world. My focus is simple: build practical technology that solves meaningful problems.
 
 ---
 
-## Building
+# 💻 Tech Stack
 
-🏠 **Smart Home Automation using WhatsApp & Twilio**
+### Languages
 
-🤖 **Human Following Robot**
-
-🦾 **Haptic Feedback Robotic Arm**
-
-🏥 **MediQ Smart Healthcare System**
-
-🚗 **Smart Parking System**
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=22C55E)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=22C55E)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=22C55E)
 
 ---
 
-## Toolkit
+### Embedded & IoT
 
-**Languages**
-
-`Python` • `Java` • `SQL`
-
-**Embedded**
-
-`Raspberry Pi` • `ESP32` • `Arduino` • `GPIO`
-
-**Software**
-
-`Flask` • `Linux` • `Git` • `GitHub`
-
-**Developer Tools**
-
-`VS Code` • `Eclipse IDE` • `Thonny` • `RealVNC Viewer`
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge\&logo=raspberrypi\&logoColor=22C55E)
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino\&logoColor=22C55E)
 
 ---
 
-## Currently
+### Cloud & Software
 
-- Samsung PRISM Research
-- Cloud Technologies
-- Agile Development
-- Embedded Systems
-
----
-
-## Connect
-
-📧 **dhruvmohapatra57@gmail.com**
-
-💻 **github.com/Dhruvmohapatra**
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=22C55E)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=22C55E)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=22C55E)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=22C55E)
 
 ---
 
-<div align="center">
+### Developer Tools
 
-### **"Engineering systems. Solving problems. Building what's next."**
+`VS Code` • `Thonny` • `Eclipse IDE` • `RealVNC Viewer`
 
-</div>
-```
+---
+
+# 📌 Featured Projects
+
+🏠 Smart Home Automation using WhatsApp & Twilio
+
+🤖 Human Following Robot
+
+🦾 Haptic Feedback Robotic Arm
+
+🏥 MediQ Smart Healthcare System
+
+🚗 Smart Parking System
+
+---
+
+# 📫 Connect
+
+📧 **[dhruvmohapatra57@gmail.com](mailto:dhruvmohapatra57@gmail.com)**
+
+💻 **GitHub:** https://github.com/Dhruvmohapatra
+
+</br>
+
+> **"I build things."**
+
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvmohapatra&color=22C55E&style=for-the-badge"/>
