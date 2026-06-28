@@ -1,97 +1,98 @@
 ````markdown
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
 
 # Dhruv Mohapatra
 
 ### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=I+build+things.;Hardware+%2B+Software+%2B+Cloud.;Always+building+something."/>
+### *"I build things."*
 
 </div>
 
+<br>
+
+# About
+
+Most software ends where the screen begins.
+
+I enjoy building the part that interacts with the real world, connecting embedded systems, hardware, cloud technologies and software into intelligent systems that solve practical problems.
+
+<br>
+
+# Current Focus
+
+- 🔬 Samsung PRISM Research Intern
+- ☁️ Cloud Technologies
+- 📋 Agile Development
+- ⚙️ Embedded Systems & IoT
+
+<br>
+
+# Tech Stack
+
+### Languages
+
+`Python` • `Java` • `SQL`
+
+### Embedded
+
+`Raspberry Pi` • `ESP32` • `Arduino` • `GPIO`
+
+### Software
+
+`Flask` • `Linux` • `Git` • `GitHub`
+
+### Tools
+
+`VS Code` • `Eclipse IDE` • `Thonny` • `RealVNC Viewer`
+
+<br>
+
+# Featured Projects
+
+### 🏠 Smart Home Automation using WhatsApp & Twilio
+
+Remote control of home appliances using Raspberry Pi, Flask and Twilio WhatsApp API.
+
 ---
 
-## > whoami
+### 🤖 Human Following Robot
 
-Most software ends at the screen.
-
-I build what exists beyond it, combining embedded hardware, cloud technologies and software into intelligent systems that interact with the real world.
+Autonomous robot using computer vision and embedded control.
 
 ---
 
-## > status
+### 🦾 Haptic Feedback Robotic Arm
+
+Gesture-based robotic arm with haptic feedback.
+
+---
+
+### 🏥 MediQ Smart Healthcare System
+
+IoT-powered healthcare monitoring and automation.
+
+---
+
+### 🚗 Smart Parking System
+
+Smart parking detection using IoT technologies.
+
+<br>
+
+# Connect
+
+📧 **Email**
 
 ```text
-Role        :: IoT & Embedded Systems Engineer
-
-Research    :: Samsung PRISM Research Intern
-
-Learning    :: Cloud Technologies
-               Agile Development
-
-Focus       :: Embedded Systems
-               Computer Vision
-               IoT Solutions
-````
-
----
-
-## > stack
-
-```text
-Languages
-├── Python
-├── Java
-└── SQL
-
-Embedded
-├── Raspberry Pi
-├── ESP32
-├── Arduino
-└── GPIO
-
-Software
-├── Flask
-├── Linux
-├── Git
-└── GitHub
-
-Tools
-├── VS Code
-├── Eclipse IDE
-├── Thonny
-└── RealVNC Viewer
-```
-
----
-
-## > projects
-
-```text
-🏠 Smart Home Automation using WhatsApp & Twilio
-
-🤖 Human Following Robot
-
-🦾 Haptic Feedback Robotic Arm
-
-🏥 MediQ Smart Healthcare System
-
-🚗 Smart Parking System
-```
-
----
-
-## > contact
-
-```text
-Email
-
 dhruvmohapatra57@gmail.com
 ```
 
-```
+💻 **GitHub**
+
+```text
 github.com/Dhruvmohapatra
 ```
 
@@ -99,7 +100,7 @@ github.com/Dhruvmohapatra
 
 <div align="center">
 
-### "I build things."
+### Building intelligent systems where hardware meets software.
 
 </div>
-```
+````
