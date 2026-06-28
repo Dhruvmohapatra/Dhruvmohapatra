@@ -1,60 +1,75 @@
+````markdown
 <div align="center">
 
-<!-- ==================== HERO BANNER ==================== -->
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
-
-# 👋 Hi, I'm Dhruv Mohapatra
+# Dhruv Mohapatra
 
 ### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=I+build+things.;Hardware+%2B+Software+%2B+Cloud.;Engineering+Intelligent+Systems."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=I+build+things.;Hardware+%2B+Software+%2B+Cloud.;Always+building+something."/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## > whoami
 
-Most software ends where the screen begins. I enjoy building what exists beyond it, connecting embedded devices, hardware, cloud technologies and software into intelligent systems that interact with the real world. My focus is simple: build practical technology that solves meaningful problems.
+Most software ends at the screen.
 
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=22C55E)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=22C55E)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql\&logoColor=22C55E)
+I build what exists beyond it, combining embedded hardware, cloud technologies and software into intelligent systems that interact with the real world.
 
 ---
 
-### Embedded & IoT
+## > status
 
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-111111?style=for-the-badge\&logo=raspberrypi\&logoColor=22C55E)
-![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge\&logo=arduino\&logoColor=22C55E)
+```text
+Role        :: IoT & Embedded Systems Engineer
 
----
+Research    :: Samsung PRISM Research Intern
 
-### Software
+Learning    :: Cloud Technologies
+               Agile Development
 
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=22C55E)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=22C55E)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=22C55E)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=22C55E)
-
----
-
-### Developer Tools
-
-`VS Code` • `Thonny` • `Eclipse IDE` • `RealVNC Viewer`
+Focus       :: Embedded Systems
+               Computer Vision
+               IoT Solutions
+````
 
 ---
 
-# 📌 Featured Projects
+## > stack
 
+```text
+Languages
+├── Python
+├── Java
+└── SQL
+
+Embedded
+├── Raspberry Pi
+├── ESP32
+├── Arduino
+└── GPIO
+
+Software
+├── Flask
+├── Linux
+├── Git
+└── GitHub
+
+Tools
+├── VS Code
+├── Eclipse IDE
+├── Thonny
+└── RealVNC Viewer
+```
+
+---
+
+## > projects
+
+```text
 🏠 Smart Home Automation using WhatsApp & Twilio
 
 🤖 Human Following Robot
@@ -64,19 +79,27 @@ Most software ends where the screen begins. I enjoy building what exists beyond 
 🏥 MediQ Smart Healthcare System
 
 🚗 Smart Parking System
+```
 
 ---
 
-# 📫 Connect
+## > contact
 
-📧 **[dhruvmohapatra57@gmail.com](mailto:dhruvmohapatra57@gmail.com)**
+```text
+Email
 
-💻 **GitHub:** https://github.com/Dhruvmohapatra
+dhruvmohapatra57@gmail.com
+```
 
-</br>
+```
+github.com/Dhruvmohapatra
+```
 
-> **"I build things."**
+---
 
-</br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dhruvmohapatra&color=22C55E&style=for-the-badge"/>
+### "I build things."
+
+</div>
+```
