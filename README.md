@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Dhruv Mohapatra
 
-<!--
-**Dhruvmohapatra/Dhruvmohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IoT Developer | Embedded Systems | Raspberry Pi | ESP32
+Samsung PRISM Research Intern
+B.Tech CSE (IoT), SOA University
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+• Samsung PRISM Research
+• Computer Vision
+• Embedded Systems
+• IoT Automation
+
+🛠 Tech Stack
+
+Python
+SQL
+Flask
+ESP32
+Raspberry Pi
+Git
+Linux
+
+📌 Featured Projects
+
+🏠 Smart Home Automation using WhatsApp & Twilio
+🤖 Human Following Robot
+🦾 Haptic Feedback Robotic Arm
+🏥 MediQ Smart Healthcare System
+🎨 Samsung PRISM Project
+
+
+## 🌐 Connect with Me
+
+- 📧 Email: dhruvmohapatra57@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/DhruvMohapatra
+- 💻 GitHub: https://github.com/Dhruvmohapatra
