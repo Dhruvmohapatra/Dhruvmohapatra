@@ -1,34 +1,43 @@
-# 👋 Hi, I'm Dhruv Mohapatra
+```markdown
+<div align="center">
+
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Dhruv Mohapatra Banner"/>
+
+<br>
+
+# DHRUV MOHAPATRA
 
 ### IoT • Embedded Systems • Cloud Technologies • Computer Vision
 
-### *"I build things."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+things.;I+build+systems.;I+build+what+matters."/>
+
+</div>
 
 ---
 
 ## About
 
-Most software ends where the screen begins.
+> **Most software ends where the screen begins.**
 
 I prefer building what exists beyond it.
 
-From embedded devices collecting data to cloud services connecting them together, I enjoy engineering complete systems that interact with the real world instead of staying confined to a screen.
+From embedded devices collecting data to cloud services connecting everything together, I enjoy engineering complete systems where hardware, software and cloud work as one.
 
-I'm currently a **Samsung PRISM Research Intern**, exploring how intelligent systems can bridge hardware, software and the cloud through practical engineering.
+Currently a **Samsung PRISM Research Intern**, exploring intelligent systems through practical engineering.
 
 ---
 
-## What I'm Building
+## Building
 
-🏠 Smart Home Automation using Raspberry Pi & WhatsApp
+🏠 **Smart Home Automation using WhatsApp & Twilio**
 
-🤖 Human Following Robot
+🤖 **Human Following Robot**
 
-🦾 Haptic Feedback Robotic Arm
+🦾 **Haptic Feedback Robotic Arm**
 
-🏥 MediQ Smart Healthcare System
+🏥 **MediQ Smart Healthcare System**
 
-🚗 Smart Parking System
+🚗 **Smart Parking System**
 
 ---
 
@@ -36,37 +45,34 @@ I'm currently a **Samsung PRISM Research Intern**, exploring how intelligent sys
 
 **Languages**
 
-Python • Java • SQL
+`Python` • `Java` • `SQL`
 
 **Embedded**
 
-Raspberry Pi • ESP32 • Arduino • GPIO
+`Raspberry Pi` • `ESP32` • `Arduino` • `GPIO`
 
 **Software**
 
-Flask • Linux • Git • GitHub
+`Flask` • `Linux` • `Git` • `GitHub`
 
-**Tools**
+**Developer Tools**
 
-VS Code • Eclipse IDE • Thonny • RealVNC Viewer
+`VS Code` • `Eclipse IDE` • `Thonny` • `RealVNC Viewer`
 
 ---
 
-## Current Focus
+## Currently
 
-Cloud Technologies
-
-Agile Development
-
-Embedded Systems
-
-Computer Vision
+- Samsung PRISM Research
+- Cloud Technologies
+- Agile Development
+- Embedded Systems
 
 ---
 
 ## Connect
 
-📧 **[dhruvmohapatra57@gmail.com](mailto:dhruvmohapatra57@gmail.com)**
+📧 **dhruvmohapatra57@gmail.com**
 
 💻 **github.com/Dhruvmohapatra**
 
@@ -74,6 +80,7 @@ Computer Vision
 
 <div align="center">
 
-### *Engineering systems. Solving problems. Building what's next.*
+### **"Engineering systems. Solving problems. Building what's next."**
 
 </div>
+```
