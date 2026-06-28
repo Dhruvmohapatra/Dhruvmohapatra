@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="360" src="./assets/ironman.gif"/>
 
 I'm a **Computer Science Engineering (IoT)** student passionate about building intelligent systems by combining **hardware, software, embedded programming, cloud technologies, and AI**.
 
